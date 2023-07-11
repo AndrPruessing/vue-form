@@ -36,6 +36,7 @@ export default {
             console.log("formContent: ", formContent);
         },
         updateForm() {
+            // eslint-disable-next-line
             console.log(this.data);
         }
     },
